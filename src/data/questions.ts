@@ -61,7 +61,8 @@ export const questions: Question[] = [
     ],
     correctAnswer: 1,
     level: 2,
-    htmlCode: '<img src="https://via.placeholder.com/200x100/4f46e5/ffffff?text=Mi+Imagen" alt="Mi imagen" />'
+    htmlCode: '<img src="img1.png" alt="Mi imagen" />',
+    cssCode: 'img { width: 80px; height: auto; }'
   },
   {
     id: 5,
